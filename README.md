@@ -2,7 +2,8 @@
 This repository contains HTML and CSS code for creating a window design inspired by the Mac OS user interface style. The interface offers a visually appealing window design with blur effects and interactive hover animations for control elements.
 
 **Author:** [d1yorhay](https://github.com/d1yorhay)
-
+## Example
+![scr-1](https://github.com/d1yorhay/macos_window_html_css/raw/main/screenshots/scr-1.png)
 ## Usage
 1. Download the code to your computer using git or download from the [Releases](https://github.com/d1yorhay/macos_window_html_css/releases) page.
 ```batch
