@@ -25,4 +25,4 @@ The code is provided as a foundation for design and can be customized to add fun
 ## License
 This script is distributed under the [MIT License](LICENSE).
 
-https://github.com/d1yorhay/macos_window_html_css/issues
+For questions, suggestions, or issues, please [open an issue](https://github.com/d1yorhay/macos_window_html_css/issues) on the GitHub repository.
