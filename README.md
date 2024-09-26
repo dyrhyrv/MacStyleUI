@@ -3,7 +3,7 @@ This repository contains HTML and CSS code for creating a window design inspired
 
 **Author:** [d1yorhay](https://github.com/d1yorhay)
 ## Example
-![login](https://github.com/d1yorhay/macos_window_html_css/raw/main/screenshots/scr-1.png)
+![login](https://github.com/d1yorhay/macos_window_html_css/raw/main/screenshots/scr1.png)
 ## Usage
 1. Download the code to your computer using git or download from the [Releases](https://github.com/d1yorhay/macos_window_html_css/releases) page.
 ```batch
