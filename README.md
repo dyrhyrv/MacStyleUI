@@ -1,28 +1,29 @@
-# MacOS Window HTML/CSS
-This repository contains HTML and CSS code for creating a window design inspired by the Mac OS user interface style. The interface offers a visually appealing window design with blur effects and interactive hover animations for control elements.
+<h1 align="center">MacOS Window HTML/CSS</h1>
 
-**Author:** [d1yorhay](https://github.com/d1yorhay)
-## Example
-![login](https://github.com/d1yorhay/macos_window_html_css/raw/main/images/scr1.png)
-## Usage
-1. Download the code to your computer using git or download from the [Releases](https://github.com/d1yorhay/macos_window_html_css/releases) page.
-```batch
-git clone https://github.com/d1yorhay/macos_window_html_css
+<p align="center">В этом репозитории представлен HTML и CSS-код для создания дизайна окна, вдохновленного стилем пользовательского интерфейса Mac OS. Интерфейс представляет собой окно с современным и визуально привлекательным дизайном, включающим эффекты размытия.</p>
+
+## Демонстрация
+![example](https://github.com/dyrhyrv/MacStyleUI/blob/main/images/scr1.png)
+
+## Установка
+
+Через git:
+```
+https://github.com/dyrhyrv/MacStyleUI.git
 ```
 
-## Technologies Used
-- HTML
-- CSS
+- или
 
-## Key Features
-- Stylish window design inspired by Mac OS UI, with customizable background.
-- Use of external fonts to enhance text readability.
-- Ideal as a starting point for further development and customization.
+Воспользуйтесь [ссылкой для загрузки](https://github.com/dyrhyrv/MacStyleUI/releases).
 
-## Note
-The code is provided as a foundation for design and can be customized to add functionality to the close, maximize, and minimize buttons according to your specific requirements. The repository primarily focuses on the visual aspects of the window design.
+## Использование
 
-## License
-This script is distributed under the [MIT License](LICENSE).
+1. Откройте директорию с загруженным репозиторием.
+2. Используйте код в нужных вам целях.
 
-For questions, suggestions, or issues, please [open an issue](https://github.com/d1yorhay/macos_window_html_css/issues) on the GitHub repository.
+## Авторы
+- [dyrhyrv](https://github.com/dyrhyrv)
+
+## Лицензия
+
+[MIT](https://github.com/dyrhyrv/MacStyleUI/blob/main/LICENSE)
